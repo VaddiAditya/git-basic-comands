@@ -1,3 +1,8 @@
+/**
+ * My java class for git repo
+ * 
+ * @aditya GitHub page
+ */
 public class Calculator {
     public int sum(int a, int b) {
         return a + b;
